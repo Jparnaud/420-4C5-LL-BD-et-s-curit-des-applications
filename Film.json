@@ -5,6 +5,10 @@
       "Directeur": "Kyle Balda, Pierre Coffin",
       "Auteur": "Brian Lynch",
       "Date": 2015,
+      "Budget": "$74,000,000",
+      "FDS_Ouverture_USA": "$115,718,405",
+      "Revenu_Total_USA": "$336,045,770",
+      "Revenu_Total": "$1,159,444,662",
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
@@ -30,6 +34,10 @@
       "Directeur": "David Fincher",
       "Auteur": "Jim Uhls",
       "Date": 1999,
+      "Budget": "$63,000,000",
+      "FDS_Ouverture_USA": "$11,035,485",
+      "Revenu_Total_USA": "$37,030,102",
+      "Revenu_Total": "$101,209,702",
       "Vedette": [
         {
           "Nom": "Brad Pitt",
