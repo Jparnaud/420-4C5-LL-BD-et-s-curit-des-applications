@@ -56,6 +56,35 @@
         }
       ],
       "Description": "Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça."
+    },
+    
+    {
+      "Titre": "Hôtel Transylvanie",
+      "Directeur": "Genndy Tartakovsky",
+      "Auteur": "Peter Baynham, Robert Smigel, Todd Durham",
+      "Date": 2012,
+      "Budget": "$85,000,000",
+      "FDS_Ouverture_USA": "$42,522,194",
+      "Revenu_Total_USA": "$148,313,048",
+      "Revenu_Total": "$358,375,603",
+      "Vedette": [
+        {
+          "Nom": "Adam Sandler",
+          "Age": 55,
+          "Personnage": "Dracula"
+        },
+        {
+          "Nom": "Andy Samberg",
+          "Age": 43,
+          "Personnage": "Jonathan"
+        },
+        {
+          "Nom": "Selena Gomez",
+          "Age": 29,
+          "Personnage": "Mavis"
+        }
+      ],
+      "Description": "Dracula, qui dirige un centre de villégiature haut de gamme loin du monde humain, se met en mode surprotecteur lorsqu'un garçon découvre le centre et tombe amoureux de la fille adolescente du comte."
     }
   ]
 }
