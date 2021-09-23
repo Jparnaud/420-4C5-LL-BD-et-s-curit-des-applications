@@ -8,14 +8,17 @@
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
+          "Age": 57,
           "Personnage": "Scarlet Overkill (voix)"
         },
         {
           "Nom": "Jon Hamm",
+          "Age": 50,
           "Personnage": "Herb Overkill  (voix)"
         },
         {
           "Nom": "Michael Keaton",
+          "Age": 70,
           "Personnage": "Walter Nelson (voix)"
         }
       ],
@@ -30,14 +33,17 @@
       "Vedette": [
         {
           "Nom": "Brad Pitt",
+          "Age": 57,
           "Personnage": "Tyler Durden"
         },
         {
           "Nom": "Edward Norton",
+          "Age": 52,
           "Personnage": "Le Narrateur"
         },
         {
           "Nom": "Helena Bonham Carter",
+          "Age": 55,
           "Personnage": "Marla Singer"
         }
       ],
