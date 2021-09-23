@@ -1,41 +1,45 @@
 {
-  "Titre": "Les Minions",
-  "Directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
+  "Film": [
     {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
+      "Titre": "Les Minions",
+      "Directeur": "Kyle Balda, Pierre Coffin",
+      "Auteur": "Brian Lynch,",
+      "Date": 2015,
+      "Vedette": [
+        {
+          "Nom": "Sandra Bullock",
+          "Personnage": "Scarlet Overkill (voix)"
+        },
+        {
+          "Nom": "Jon Hamm",
+          "Personnage": "Herb Overkill  (voix)"
+        },
+        {
+          "Nom": "Michael Keaton",
+          "Personnage": "Walter Nelson (voix)"
+        }
+      ]
     },
-    {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)"
-    },
-    {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)"
-    }
-  ]
-}
 
-{
-  "Titre": "Fight Club",
-  "Directeur": "David Fincher",
-  "Auteur": "Jim Uhls",
-  "Date": 1999,
-  "Vedette": [
     {
-      "Nom": "Brad Pitt",
-      "Personnage": "Tyler Durden"
-    },
-    {
-      "Nom": "Edward Norton",
-      "Personnage": "Le Narrateur"
-    },
-    {
-      "Nom": "Helena Bonham Carter",
-      "Personnage": "Marla Singer"
+      "Titre": "Fight Club",
+      "Directeur": "David Fincher",
+      "Auteur": "Jim Uhls",
+      "Date": 1999,
+      "Vedette": [
+        {
+          "Nom": "Brad Pitt",
+          "Personnage": "Tyler Durden"
+        },
+        {
+          "Nom": "Edward Norton",
+          "Personnage": "Le Narrateur"
+        },
+        {
+          "Nom": "Helena Bonham Carter",
+          "Personnage": "Marla Singer"
+        }
+      ]
     }
   ]
 }
