@@ -1,6 +1,6 @@
 {
   "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
+  "Directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
   "Vedette": [
@@ -15,6 +15,27 @@
     {
       "Nom": "Michael Keaton",
       "Personnage": "Walter Nelson (voix)"
+    }
+  ]
+}
+
+{
+  "Titre": "Fight Club",
+  "Directeur": "David Fincher",
+  "Auteur": "Jim Uhls",
+  "Date": 1999,
+  "Vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "Le Narrateur"
+    },
+    {
+      "Nom": "Helena Bonham Carter",
+      "Personnage": "Marla Singer"
     }
   ]
 }
